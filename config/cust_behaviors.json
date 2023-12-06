@@ -1,0 +1,26 @@
+[
+	{
+		"code": "[",
+		"name": "[",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "]",
+		"name": "]",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&none=",
+		"name": "&none=",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
